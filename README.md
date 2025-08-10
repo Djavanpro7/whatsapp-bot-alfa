@@ -1,6 +1,6 @@
 # 🪒 ALFA Barbearia - WhatsApp Bot
 
-![Banner](/whatsapp-bot-alfa/images/banner.png)
+![Banner](/images/banner.png)
 
 <p align="center">
   <img src="https://img.shields.io/node/v/18" alt="Node Version">
